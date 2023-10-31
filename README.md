@@ -2,6 +2,7 @@
 ## UNet Model for Image Segmentation. 
 
 ![alt text](https://miro.medium.com/v2/resize:fit:828/format:webp/1*9cLgTN_qKJusj54j2VbJrg.jpeg)
+_Image Credits: Ayoola Olafenwa_
 
 Image segmentation is a computer vision task that segments an image into multiple areas by assigning a label to every pixel of the image. It provides much more information about an image than object detection, which draws a bounding box around the detected object, or image classification, which assigns a label to the object.
 
